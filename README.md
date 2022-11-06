@@ -6,7 +6,7 @@ To develop a convolutional autoencoder for image denoising application.
 
 ## Problem Statement and Dataset
 
-## Neural Network Model
+## Convolution Autoencoder Network Model
 
 Include the neural network model diagram.
 
